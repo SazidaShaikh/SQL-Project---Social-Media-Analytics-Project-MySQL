@@ -1,0 +1,53 @@
+📊 Social Media (Meta) SQL Analytics Project
+
+🎉 I’ve successfully completed a Social Media SQL Project, where I worked extensively on analyzing large-scale social media data using SQL to extract meaningful and actionable insights.
+
+🔍 Project Overview
+This project focuses on analyzing social media platform data using SQL to uncover insights related to user engagement, content performance, hashtag trends, and influencer identification. The goal is to transform raw relational data into meaningful, business-oriented insights that support data-driven decision-making.
+
+🗂 Dataset Description
+The analysis is performed on a relational database containing the following tables:
+users – User profile information
+photos – Posts created by users
+likes – Likes on posts
+comments – Comments on posts
+follows – Follower–following relationships
+tags – Hashtag metadata
+photo_tags – Mapping between photos and hashtags
+
+🎯 Objectives
+Analyze user engagement across posts, likes, and comments
+Identify high-performing content and trending hashtags
+Segment users based on engagement behavior
+Detect potential influencers using reach and engagement metrics
+Generate actionable insights for content and marketing strategies
+
+📌 Key Insights
+Identified peak engagement hours to optimize posting schedules
+Certain hashtags and content themes consistently drive higher engagement
+Users with high engagement per post and diverse hashtag usage are strong influencer candidates
+Tag diversity improves content discoverability and sustained engagement
+Users can be segmented into active, moderate, and inactive groups for targeted strategies
+
+🧠 SQL Concepts Used
+JOINs (INNER, LEFT)
+Aggregation functions (COUNT, SUM, AVG)
+Window functions (RANK)
+Common Table Expressions (CTEs)
+Subqueries
+Data quality checks (NULL & duplicate handling)
+
+📈 Business Use Cases
+Content optimization and posting strategy
+Hashtag recommendation systems
+Influencer identification for marketing campaigns
+User segmentation for personalized targeting
+Re-engagement strategies for inactive users
+
+🛠 Tools & Technologies
+SQL (MySQL)
+Relational Database Analysis
+Data Analytics & Reporting
+
+🚀 Conclusion
+This project demonstrates how SQL can be used to analyze complex social media data and extract insights that directly support business and marketing decisions. It highlights the power of structured querying in transforming raw data into strategic intelligence.
