@@ -1,2 +1,4 @@
 # SQL-Project---Social-Media-Analytics-Project-MySQL
 Analyzed data from 7 social media tables using SQL (JOINs, CTEs, Subqueries, Window Functions) to evaluate user engagement, content performance, hashtags, and follower behavior. Identified top influencers, peak engagement times, and content trends, providing insights to improve audience targeting and marketing strategies.
+
+This project analyzes social media data using SQL to uncover insights into user engagement, content performance, hashtag trends, and influencer behavior. By applying advanced SQL techniques such as JOINs, CTEs, subqueries, window functions, and aggregations, the analysis identifies peak engagement times, trending hashtags, active user segments, and top-performing content. The insights generated support data-driven decisions for content optimization, audience targeting, influencer marketing, and overall social media strategy.
